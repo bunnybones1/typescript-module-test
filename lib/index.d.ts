@@ -1,1 +1,1 @@
-export declare const Greeter: (name: string) => string;
+export declare const example: (name: string) => string;
